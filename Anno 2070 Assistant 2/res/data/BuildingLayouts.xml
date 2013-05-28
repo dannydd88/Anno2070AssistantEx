@@ -2,11 +2,11 @@
 <Building_Layouts>
   <!-- Eco Layouts -->
   <EcoLayouts><!-- Bio_Drinks -->
-    <Name>Bio Drinks 1</Name>
+    <Name>生物饮料1(Bio Drinks)</Name>
     <Image>Bio_Drinks1.png</Image>
   </EcoLayouts>
   <EcoLayouts>
-    <Name>Bio Drinks 2</Name>
+    <Name>生物饮料2(Bio Drinks)</Name>
     <Image>Bio_Drinks2.png</Image>
   </EcoLayouts>
   <EcoLayouts> <!-- Building Modules -->
@@ -70,15 +70,15 @@
     <Image>Rice.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Tea -->
-    <Name>Tea 1</Name>
+    <Name>茶1(Tea)</Name>
     <Image>Tea1.png</Image>
   </EcoLayouts>
   <EcoLayouts>
-    <Name>Tea 2</Name>
+    <Name>茶2(Tea)</Name>
     <Image>Tea2.png</Image>
   </EcoLayouts>
   <EcoLayouts>
-    <Name>Tea 3</Name>
+    <Name>茶3(Tea)</Name>
     <Image>Tea3.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Tools -->
