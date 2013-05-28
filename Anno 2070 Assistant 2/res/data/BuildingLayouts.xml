@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Building_Layouts>
+  <!-- Eco Layouts -->
+  <EcoLayouts><!-- Bio_Drinks -->
+    <Name>Bio Drinks 1</Name>
+    <Image>Bio_Drinks1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>Bio Drinks 2</Name>
+    <Image>Bio_Drinks2.png</Image>
+  </EcoLayouts>
+  <EcoLayouts> <!-- Building Modules -->
+    <Name>Building Modules 1</Name>
+    <Image>Building_Modules1.jpg</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>Building Modules 2</Name>
+    <Image>Building_Modules2.jpg</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>Building Modules 3</Name>
+    <Image>Building_Modules3.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Corn -->
+    <Name>Corn</Name>
+    <Image>Corn.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Dairy -->
+    <Name>Dairy</Name>
+    <Image>Dairy.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Diamonds -->
+    <Name>Diamonds</Name>
+    <Image>Diamonds.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Fruit -->
+    <Name>Fruit</Name>
+    <Image>Fruit1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>Fruit 2</Name>
+    <Image>Fruit2.jpg</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>Fruit 3</Name>
+    <Image>Fruit3.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Health Food -->
+    <Name>Health Food 1</Name>
+    <Image>Health_Food1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>Health Food 2</Name>
+    <Image>Health_Food2.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>Health Food 3</Name>
+    <Image>Health_Food3.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Pasta Dishes -->
+    <Name>Pasta Dishes</Name>
+    <Image>Pasta_Dishes.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Rare-earth Elements -->
+    <Name>Rare-earth Elements</Name>
+    <Image>Rare-earthElement.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Rice -->
+    <Name>Rice</Name>
+    <Image>Rice.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Tea -->
+    <Name>Tea 1</Name>
+    <Image>Tea1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>Tea 2</Name>
+    <Image>Tea2.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>Tea 3</Name>
+    <Image>Tea3.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Tools -->
+    <Name>Tools</Name>
+    <Image>Tools.jpg</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Vegetables -->
+    <Name>Vegetables</Name>
+    <Image>Vegetables.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Wheat -->
+    <Name>Wheat</Name>
+    <Image>Wheat.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Wood -->
+    <Name>Wood</Name>
+    <Image>Wood.jpg</Image>
+  </EcoLayouts>
+  <!-- Tycoon Layouts -->
+  <TycoonLayouts><!-- Building Modules -->
+    <Name>Building Modules 1</Name>
+    <Image>BuildingModules1.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>Building Modules 2</Name>
+    <Image>BuildingModules2.jpg</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Champagne -->
+    <Name>Champagne</Name>
+    <Image>Champagne.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Coal -->
+    <Name>Coal</Name>
+    <Image>Coal.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Coal Power -->
+    <Name>Coal Power 1</Name>
+    <Image>CoalPower1.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>Coal Power 2</Name>
+    <Image>CoalPower2.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Convenience Food -->
+    <Name>Convenience Food 1</Name>
+    <Image>ConvenienceFood1.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>Convenience Food 2</Name>
+    <Image>ConvenienceFood2.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>Convenience Food 3</Name>
+    <Image>ConvenienceFood3.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Diamonds -->
+    <Name>Diamonds</Name>
+    <Image>Diamonds.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Liquor -->
+    <Name>Liquor 1</Name>
+    <Image>Liquor1.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>Liquor 2</Name>
+    <Image>Liquor2.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>Liquor 3</Name>
+    <Image>Liquor3.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>Liquor 4</Name>
+    <Image>Liquor4.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Meat\Flavor -->
+    <Name>Meat\Flavor</Name>
+    <Image>MeatFlavor.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Omega Acid -->
+    <Name>Omega Acid</Name>
+    <Image>OmegaAcid.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Plastics -->
+    <Name>Plastics 1</Name>
+    <Image>Plastics1.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Rare-earth Elements -->
+    <Name>Rare-earth Elements</Name>
+    <Image>Rare-earthElement.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>Plastics 2</Name>
+    <Image>Plastics2.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Secret Ingredients -->
+    <Name>Secret Ingredients</Name>
+    <Image>SecretIngredient.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts><!-- Truffles -->
+    <Name>Truffles</Name>
+    <Image>Truffles.png</Image>
+  </TycoonLayouts>
+  <!-- Tech Layouts -->
+  <TechLayouts><!-- Algae -->
+    <Name>Algae</Name>
+    <Image>Algae.png</Image>
+  </TechLayouts>
+  <TechLayouts><!-- Coffee -->
+    <Name>Coffee 1</Name>
+    <Image>Coffee1.png</Image>
+  </TechLayouts>
+  <TechLayouts>
+    <Name>Coffee 2</Name>
+    <Image>Coffee2.png</Image>
+  </TechLayouts>
+  <TechLayouts><!-- Diamonds -->
+    <Name>Diamonds</Name>
+    <Image>Diamonds.png</Image>
+  </TechLayouts>
+  <TechLayouts><!-- Functional Drinks -->
+    <Name>Functional Drinks 1</Name>
+    <Image>FunctionalDrinks1.png</Image>
+  </TechLayouts>
+  <TechLayouts>
+    <Name>Functional Drinks 2</Name>
+    <Image>FunctionalDrinks2.png</Image>
+  </TechLayouts>
+  <TechLayouts><!-- Functional Food -->
+    <Name>Functional Food 1</Name>
+    <Image>FunctionalFood1.png</Image>
+  </TechLayouts>
+  <TechLayouts>
+    <Name>Functional Food 2</Name>
+    <Image>FunctionalFood2.jpg</Image>
+  </TechLayouts>
+  <TechLayouts><!-- Rare-earth Elements -->
+    <Name>Rare-earth Elements</Name>
+    <Image>Rare-earthElement.png</Image>
+  </TechLayouts>
+  <TechLayouts><!-- Sugar Beets -->
+    <Name>Sugar Beets 1</Name>
+    <Image>SugarBeets1.png</Image>
+  </TechLayouts>
+  <TechLayouts>
+    <Name>Sugar Beets 2</Name>
+    <Image>SugarBeets2.png</Image>
+  </TechLayouts>
+</Building_Layouts>

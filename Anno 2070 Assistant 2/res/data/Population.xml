@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Population>
+  <EcoTycoon>
+    <Workers>8</Workers>
+    <Employees>15</Employees>
+    <Engineers>25</Engineers>
+    <Executives>40</Executives>
+  </EcoTycoon>
+  <Techs>
+    <LabAssistants>5</LabAssistants>
+    <Researchers>30</Researchers>
+  </Techs>
+</Population>

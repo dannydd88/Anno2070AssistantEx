@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProductionRates>
+  <Production>
+    <Name>Fish</Name>
+    <Rate>2.0</Rate>
+  </Production>
+  <Production>
+    <Name>Tea</Name>
+    <Rate>1.5</Rate>
+  </Production>
+  <Production>
+    <Name>Health Food</Name>
+    <Rate>3.0</Rate>
+  </Production>
+  <Production>
+    <Name>Communicators</Name>
+    <Rate>2.0</Rate>
+  </Production>
+  <Production>
+    <Name>Pasta Dishes</Name>
+    <Rate>1.0</Rate>
+  </Production>
+  <Production>
+    <Name>Bio Drinks</Name>
+    <Rate>1.25</Rate>
+  </Production>
+  <Production>
+    <Name>3D Projectors</Name>
+    <Rate>1.5</Rate>
+  </Production>
+  <Production>
+    <Name>Service Bots</Name>
+    <Rate>1.0</Rate>
+  </Production>
+  <Production>
+    <Name>Liquor</Name>
+    <Rate>1.5</Rate>
+  </Production>
+  <Production>
+    <Name>Convenience Food</Name>
+    <Rate>3.0</Rate>
+  </Production>
+  <Production>
+    <Name>Plastics</Name>
+    <Rate>2.0</Rate>
+  </Production>
+  <Production>
+    <Name>Luxury Meals</Name>
+    <Rate>1.0</Rate>
+  </Production>
+  <Production>
+    <Name>Champagne</Name>
+    <Rate>1.25</Rate>
+  </Production>
+  <Production>
+    <Name>Jewelery</Name>
+    <Rate>1.33</Rate>
+  </Production>
+  <Production>
+    <Name>Pharmaceuticals</Name>
+    <Rate>1.0</Rate>
+  </Production>
+  <Production>
+    <Name>Functional Food</Name>
+    <Rate>1.0</Rate>
+  </Production>
+  <Production>
+    <Name>Functional Drinks</Name>
+    <Rate>1.25</Rate>
+  </Production>
+</ProductionRates>

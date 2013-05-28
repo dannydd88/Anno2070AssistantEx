@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Housing_Layouts>
+  <!-- Eco Housing Layouts -->
+  <Layout>
+    <Name>Ecos 1</Name>
+    <Image>Ecos1.jpg</Image>
+  </Layout>
+  <Layout>
+    <Name>Ecos 2</Name>
+    <Image>Ecos2.png</Image>
+  </Layout>
+  <Layout>
+    <Name>Ecos 3</Name>
+    <Image>Ecos3.png</Image>
+  </Layout>
+  <Layout>
+    <Name>Ecos 4</Name>
+    <Image>Ecos4.png</Image>
+  </Layout>
+  <!-- Eco & Tycoon Housing Layouts -->
+  <Layout>
+    <Name>Ecos\Tycoons 1</Name>
+    <Image>EcoTycoon1.png</Image>
+  </Layout>
+  <Layout>
+    <Name>Ecos\Tycoons 2</Name>
+    <Image>EcoTycoon2.png</Image>
+  </Layout>
+  <Layout>
+    <Name>Ecos\Tycoons 3</Name>
+    <Image>EcoTycoon3.png</Image>
+  </Layout>
+  <!-- Tech Housing Layouts -->
+  <Layout>
+    <Name>Techs 1</Name>
+    <Image>Techs1.png</Image>
+  </Layout>
+  <Layout>
+    <Name>Techs 2</Name>
+    <Image>Techs2.png</Image>
+  </Layout>
+  <Layout>
+    <Name>Techs 3</Name>
+    <Image>Techs3.png</Image>
+  </Layout>
+</Housing_Layouts>
