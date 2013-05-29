@@ -34,16 +34,20 @@
     <Image>Diamonds.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Fruit -->
-    <Name>Fruit</Name>
+    <Name>水果1(Fruit)</Name>
     <Image>Fruit1.png</Image>
   </EcoLayouts>
   <EcoLayouts>
-    <Name>Fruit 2</Name>
-    <Image>Fruit2.jpg</Image>
+    <Name>水果2(Fruit)</Name>
+    <Image>Fruit2.png</Image>
   </EcoLayouts>
   <EcoLayouts>
-    <Name>Fruit 3</Name>
+    <Name>水果3(Fruit)</Name>
     <Image>Fruit3.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>水果4(Fruit)</Name>
+    <Image>Fruit4.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Health Food -->
     <Name>Health Food 1</Name>
@@ -66,8 +70,12 @@
     <Image>Rare-earthElement.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Rice -->
-    <Name>Rice</Name>
-    <Image>Rice.png</Image>
+    <Name>米1(Rice)</Name>
+    <Image>Rice1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>米2(Rice)</Name>
+    <Image>Rice2.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Tea -->
     <Name>茶1(Tea)</Name>
@@ -81,17 +89,41 @@
     <Name>茶3(Tea)</Name>
     <Image>Tea3.png</Image>
   </EcoLayouts>
+  <EcoLayouts>
+    <Name>茶4(Tea)</Name>
+    <Image>Tea4.png</Image>
+  </EcoLayouts>
   <EcoLayouts><!-- Tools -->
     <Name>Tools</Name>
     <Image>Tools.jpg</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Vegetables -->
-    <Name>Vegetables</Name>
-    <Image>Vegetables.png</Image>
+    <Name>蔬菜1(Vegetables)</Name>
+    <Image>Vegetables1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>蔬菜2(Vegetables)</Name>
+    <Image>Vegetables2.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>蔬菜3(Vegetables)</Name>
+    <Image>Vegetables3.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Wheat -->
-    <Name>Wheat</Name>
-    <Image>Wheat.png</Image>
+    <Name>玉米1(Wheat)</Name>
+    <Image>Wheat1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>玉米2(Wheat)</Name>
+    <Image>Wheat2.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>玉米3(Wheat)</Name>
+    <Image>Wheat3.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>玉米4(Wheat)</Name>
+    <Image>Wheat4.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Wood -->
     <Name>Wood</Name>
