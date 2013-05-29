@@ -10,24 +10,48 @@
     <Image>Bio_Drinks2.png</Image>
   </EcoLayouts>
   <EcoLayouts> <!-- Building Modules -->
-    <Name>Building Modules 1</Name>
-    <Image>Building_Modules1.jpg</Image>
+    <Name>建筑模块1(Building Modules)</Name>
+    <Image>Building_Modules1.png</Image>
   </EcoLayouts>
   <EcoLayouts>
-    <Name>Building Modules 2</Name>
-    <Image>Building_Modules2.jpg</Image>
+    <Name>建筑模块2(Building Modules)</Name>
+    <Image>Building_Modules2.png</Image>
   </EcoLayouts>
   <EcoLayouts>
-    <Name>Building Modules 3</Name>
+    <Name>建筑模块3(Building Modules)</Name>
     <Image>Building_Modules3.png</Image>
   </EcoLayouts>
+  <EcoLayouts>
+    <Name>建筑模块4(Building Modules)</Name>
+    <Image>Building_Modules4.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>建筑模块5(Building Modules)</Name>
+    <Image>Building_Modules5.png</Image>
+  </EcoLayouts>
   <EcoLayouts><!-- Corn -->
-    <Name>Corn</Name>
-    <Image>Corn.png</Image>
+    <Name>玉米1(Corn)</Name>
+    <Image>Corn1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>玉米2(Corn)</Name>
+    <Image>Corn2.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>玉米3(Corn)</Name>
+    <Image>Corn3.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Dairy -->
-    <Name>Dairy</Name>
-    <Image>Dairy.png</Image>
+    <Name>牛奶1(Dairy)</Name>
+    <Image>Dairy1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>牛奶2(Dairy)</Name>
+    <Image>Dairy2.jpg</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>牛奶3(Dairy)</Name>
+    <Image>Dairy3.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Diamonds -->
     <Name>Diamonds</Name>
@@ -50,20 +74,24 @@
     <Image>Fruit4.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Health Food -->
-    <Name>Health Food 1</Name>
+    <Name>健康食品1(Health Food)</Name>
     <Image>Health_Food1.png</Image>
   </EcoLayouts>
   <EcoLayouts>
-    <Name>Health Food 2</Name>
+    <Name>健康食品2(Health Food)</Name>
     <Image>Health_Food2.png</Image>
   </EcoLayouts>
   <EcoLayouts>
-    <Name>Health Food 3</Name>
+    <Name>健康食品3(Health Food)</Name>
     <Image>Health_Food3.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Pasta Dishes -->
-    <Name>Pasta Dishes</Name>
-    <Image>Pasta_Dishes.png</Image>
+    <Name>意大利面1(Pasta Dishes)</Name>
+    <Image>Pasta_Dishes1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>意大利面2(Pasta Dishes)</Name>
+    <Image>Pasta_Dishes2.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Rare-earth Elements -->
     <Name>Rare-earth Elements</Name>
@@ -94,7 +122,7 @@
     <Image>Tea4.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Tools -->
-    <Name>Tools</Name>
+    <Name>工具(Tools)</Name>
     <Image>Tools.jpg</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Vegetables -->
@@ -126,8 +154,28 @@
     <Image>Wheat4.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Wood -->
-    <Name>Wood</Name>
-    <Image>Wood.jpg</Image>
+    <Name>木材(Wood)</Name>
+    <Image>Wood.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Solar Tower -->
+    <Name>太阳能塔(Solar Tower)</Name>
+    <Image>Solar_Tower.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Communicators -->
+    <Name>通信设备1(Communicators)</Name>
+    <Image>Communicators1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts>
+    <Name>通信设备2(Communicators)</Name>
+    <Image>Communicators2.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Biolpolymers -->
+    <Name>生物聚合物1(Biolpolymers)</Name>
+    <Image>Biolpolymers1.png</Image>
+  </EcoLayouts>
+  <EcoLayouts><!-- Service Bots -->
+    <Name>服务终端1(Service Bots)</Name>
+    <Image>Service_Bots1.png</Image>
   </EcoLayouts>
   <!-- Tycoon Layouts -->
   <TycoonLayouts><!-- Building Modules -->
