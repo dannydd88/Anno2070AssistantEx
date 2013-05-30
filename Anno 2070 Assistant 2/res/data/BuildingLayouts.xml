@@ -54,7 +54,7 @@
     <Image>Dairy3.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Diamonds -->
-    <Name>Diamonds</Name>
+    <Name>钻石(Diamonds)</Name>
     <Image>Diamonds.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Fruit -->
@@ -94,7 +94,7 @@
     <Image>Pasta_Dishes2.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Rare-earth Elements -->
-    <Name>Rare-earth Elements</Name>
+    <Name>稀土元素(Rare-earth Elements)</Name>
     <Image>Rare-earthElement.png</Image>
   </EcoLayouts>
   <EcoLayouts><!-- Rice -->
@@ -219,20 +219,24 @@
     <Image>Diamonds.png</Image>
   </TycoonLayouts>
   <TycoonLayouts><!-- Liquor -->
-    <Name>Liquor 1</Name>
+    <Name>酒1(Liquor)</Name>
     <Image>Liquor1.png</Image>
   </TycoonLayouts>
   <TycoonLayouts>
-    <Name>Liquor 2</Name>
+    <Name>酒2(Liquor)</Name>
     <Image>Liquor2.png</Image>
   </TycoonLayouts>
   <TycoonLayouts>
-    <Name>Liquor 3</Name>
+    <Name>酒3(Liquor)</Name>
     <Image>Liquor3.png</Image>
   </TycoonLayouts>
   <TycoonLayouts>
-    <Name>Liquor 4</Name>
+    <Name>酒4(Liquor)</Name>
     <Image>Liquor4.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>酒5(Liquor)</Name>
+    <Image>Liquor5.png</Image>
   </TycoonLayouts>
   <TycoonLayouts><!-- Meat\Flavor -->
     <Name>Meat\Flavor</Name>
