@@ -191,16 +191,24 @@
     <Image>Champagne.png</Image>
   </TycoonLayouts>
   <TycoonLayouts><!-- Coal -->
-    <Name>Coal</Name>
+    <Name>煤(Coal)</Name>
     <Image>Coal.png</Image>
   </TycoonLayouts>
   <TycoonLayouts><!-- Coal Power -->
-    <Name>Coal Power 1</Name>
+    <Name>煤电1(Coal Power)</Name>
     <Image>CoalPower1.png</Image>
   </TycoonLayouts>
   <TycoonLayouts>
-    <Name>Coal Power 2</Name>
+    <Name>煤电2(Coal Power)</Name>
     <Image>CoalPower2.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>煤电3(Coal Power)</Name>
+    <Image>CoalPower3.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>煤电4(Coal Power)</Name>
+    <Image>CoalPower4.png</Image>
   </TycoonLayouts>
   <TycoonLayouts><!-- Convenience Food -->
     <Name>Convenience Food 1</Name>
@@ -239,8 +247,16 @@
     <Image>Liquor5.png</Image>
   </TycoonLayouts>
   <TycoonLayouts><!-- Meat\Flavor -->
-    <Name>Meat\Flavor</Name>
-    <Image>MeatFlavor.png</Image>
+    <Name>肉/香料1(Meat\Flavor)</Name>
+    <Image>MeatFlavor1.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>肉/香料2(Meat\Flavor)</Name>
+    <Image>MeatFlavor2.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>肉/香料3(Meat\Flavor)</Name>
+    <Image>MeatFlavor3.png</Image>
   </TycoonLayouts>
   <TycoonLayouts><!-- Omega Acid -->
     <Name>Omega Acid</Name>
@@ -263,8 +279,16 @@
     <Image>SecretIngredient.png</Image>
   </TycoonLayouts>
   <TycoonLayouts><!-- Truffles -->
-    <Name>Truffles</Name>
-    <Image>Truffles.png</Image>
+    <Name>松露1(Truffles)</Name>
+    <Image>Truffles1.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>松露2(Truffles)</Name>
+    <Image>Truffles2.png</Image>
+  </TycoonLayouts>
+  <TycoonLayouts>
+    <Name>松露3(Truffles)</Name>
+    <Image>Truffles3.png</Image>
   </TycoonLayouts>
   <!-- Tech Layouts -->
   <TechLayouts><!-- Algae -->
